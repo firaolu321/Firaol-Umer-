@@ -25,26 +25,8 @@ Designed with clean typography, smooth scrolling, dark/light mode toggling, and 
 * **HTML5** — Semantic markup structure
 * **Tailwind CSS (CDN)** — Utility-first styling and responsive architecture
 * **FontAwesome 6.4.0** — Scalable vector icons
-* **Vanilla JavaScript** — Theme toggle and DOM interactivity
+* **Vanilla JavaScript** — Theme toggle and DOM interactivity 
 
----
-
-## Getting Started / Deployment
-
-1. **Local Preview:**
-   * Clone or download this repository.
-   * Open `index.html` directly in any modern web browser.
-
-2. **Publishing (GitHub Pages):**
-   * Create a new repository on GitHub.
-   * Upload `index.html` and this `README.md`.
-   * Navigate to **Settings > Pages**, select the main branch, and save. Your portfolio will go live instantly.
-
-3. **Publishing (Netlify Drop):**
-   * Visit [Netlify Drop](https://drop.netlify.com/).
-   * Drag and drop the folder containing `index.html` to deploy instantly.
-
----
 
 ## Contact
 
